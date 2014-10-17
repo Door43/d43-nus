@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nus:home|Door43 (nus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nus|d43-nus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nus/archive/master.zip|d43-nus.zip]]
+
+**Recent Changes**
+{{changes>ns = nus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nus|Ethnologue data]]
+
